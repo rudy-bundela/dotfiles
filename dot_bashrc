@@ -12,3 +12,4 @@ source ~/.local/share/omarchy/default/bash/rc
 alias gtv='echo "Running go test -v" && go test -v'
 alias gs='git status'
 alias gg='lazygit'
+alias ll='ls -la'
